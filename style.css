@@ -2,7 +2,7 @@
 html,body{margin:0;background:transparent;overflow:hidden}
 body{display:flex;align-items:center;height:100vh;font-family:Arial,"Yu Gothic",sans-serif}
 .wrap{width:100%;overflow:hidden}
-.track{display:flex;width:max-content;animation:flow 500s linear infinite}
+.track{display:flex;width:max-content;animation:flow 120s linear infinite}
 .item{width:110px;text-align:center;color:#fff;margin-right:14px;filter:drop-shadow(0 2px 4px #000)}
 .item img{width:100%;display:block}
 .name{font-weight:700;font-size:16px;text-shadow:-2px -2px #000,2px -2px #000,-2px 2px #000,2px 2px #000}
